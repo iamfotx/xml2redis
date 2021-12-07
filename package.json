@@ -1,0 +1,10 @@
+{
+  "name": "xml2redis",
+  "version": "0.0.1",
+  "description": "CLI package that reads XML file to REDIS",
+  "main": "src/index.js",
+  "repository": "git@github.com:iamfotx/xml2redis.git",
+  "author": "iamfotx <iamfotx@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
